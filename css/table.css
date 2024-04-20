@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+    font-size: 50px;
+    color: fuchsia;
+    text-align: center;
+}
+
+table {
+    border: double 5px fuchsia;
+    width: 50%;
+    font-size: 24px;
+}
+
+th {
+    border: solid 2px blueviolet;
+    width: 25%;
+}
